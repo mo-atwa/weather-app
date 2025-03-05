@@ -1,0 +1,4 @@
+{
+    "workbench.externalBrowser": "/opt/firefox-developer-edition/firefox",
+    "livePreview.customExternalBrowser": "Firefox"
+}
