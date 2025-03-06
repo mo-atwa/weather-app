@@ -34,7 +34,7 @@ body {
   justify-content: center;
   min-height: 100vh;
   background-color: rgba(0, 0, 0, 0.555);
-  padding: 20px;
+  padding: 0;
 }
 
 /* Header */
@@ -191,7 +191,7 @@ body {
   }
 
   .current-weather .weather-description {
-  gap: 10px;
+  gap: 8px;
   }
 
   .current-weather .weather-description div {
