@@ -2,7 +2,7 @@
 
 A sleek and intuitive Weather web application built with React.js to help users stay updated with real-time weather conditions for any location around the globe.  
 
-🚀 **Live Demo:** [preview](https://mo-atwa.github.io/weather-app/)   
+🚀 **Live Demo:** [preview](https://weatherapp-atwa.netlify.app/)   
 📂 **GitHub Repository:** [Here](https://github.com/mo-atwa/weather-app.git)
 
 ## ✨ Features  
