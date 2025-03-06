@@ -173,7 +173,7 @@ body {
 
   .current-weather .weather-degrees span {
     font-size: 35px;
-    right: 3px;
+    right: -20px;
   }
 }
 
